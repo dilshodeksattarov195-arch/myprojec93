@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "carterocess",
+        "uuid": 454677,
+        "checksum": "rit6m"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
